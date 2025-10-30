@@ -1,0 +1,21 @@
+
+Time: 2025-09-26 18:27:48
+Image: river.jpeg
+Pollution Level: Moderate
+Agriculture Safe: Yes, but treat water first
+Chemical Levels:
+  - pH: 6.9
+  - Nitrates (mg/L): 1.4
+  - Phosphates (mg/L): 3.96
+  - Turbidity (NTU): 80.83
+=========================
+Time: 2025-09-26 18:29:04
+Image: river.jpeg
+Pollution Level: Moderate
+Agriculture Safe: Yes, but treat water first
+Chemical Levels:
+  - pH: 7.52
+  - Nitrates (mg/L): 22.03
+  - Phosphates (mg/L): 0.65
+  - Turbidity (NTU): 26.2
+=========================
